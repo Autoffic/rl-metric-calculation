@@ -129,3 +129,8 @@ ui-tests/playwright-report
 
 # RTC
 .jupyter_ystore.db
+
+# for virtual environments
+bin
+*.cfg
+share
